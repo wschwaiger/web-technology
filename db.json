@@ -184,24 +184,6 @@
     "url": "#"
   }
 ],
-"poweredby": [
-  {
-    "ref": "thema/die-oesterreichische-esport-szene",
-    "image": "img/esports-at.jpg"
-  },
-  {
-    "ref": "thema/bank-der-zukunft",
-    "image": "img/erste.jpg"
-  },
-  {
-    "ref": "thema/ing-diba",
-    "image": "img/ing-diba.jpg"
-  },
-  {
-    "ref": "thema/iot-stars-2018",
-    "image": "img/drei.jpg"
-  }
-],
 "current": [
   {
     "group": "produkte",
